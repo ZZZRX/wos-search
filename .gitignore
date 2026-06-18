@@ -1,0 +1,5 @@
+.obsidian/
+__pycache__/
+.DS_Store
+.Rhistory
+.claude/settings.local.json
